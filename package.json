@@ -1,5 +1,5 @@
 {
-  "name": "react-h5-audio-player",
+  "name": "react-h5-audio-player-fork",
   "version": "3.9.4",
   "description": "A customizable React audio player. Written in TypeScript. Mobile compatible. Keyboard friendly",
   "main": "./lib/index.js",
